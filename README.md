@@ -1,1 +1,1 @@
-# ast1440
+# AST1440: Radiation and Gas Dynamics
